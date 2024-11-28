@@ -14,6 +14,7 @@
 
   <div class="container-fluid" style="background:#d2b4de;text-align:center"> 
      <h1>BIENVENIDOS A ITSAO</h1>
+     <h1>Isabel Gomez Galvan</h1>
 
      <img src="cliente/img/iguana.jpg" widht="100" height="100">
 </div>
